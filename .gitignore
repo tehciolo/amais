@@ -26,6 +26,7 @@ authorize.php
 cron.php
 index.php
 install.php
+autoload.php
 update.php
 xmlrpc.php
 /includes
@@ -34,3 +35,4 @@ xmlrpc.php
 /profiles
 /scripts
 /themes
+/core
